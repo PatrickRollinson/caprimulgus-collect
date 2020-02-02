@@ -1,3 +1,4 @@
+// code was just to create colour spectogram, keeping it for future reference 
 async function generateSpectogram(data){
     return new Promise((resolve, reject)=>{
         console.log('data: ', data.length)
